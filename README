@@ -45,7 +45,7 @@ Result:
 The PDB was created successfully and appeared under SHOW PDBS as READ WRITE.
 
  
-________________________________________
+_______________________________________
 4. Task 2 – Creating and Deleting a Second PDB
 Objective:
 Create another pluggable database named ol_to_delete_pdb_28248 and then delete it to demonstrate full database lifecycle management.
